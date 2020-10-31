@@ -1,2 +1,33 @@
-# WTP-Project-App-manger
-install &amp; download $ advance an so on ,you can install apps like linux or macos!
+# App_manger_ex
+
+#### 介绍
+一个安装程序的程序，介绍在我的网站上：http://fxtstudio.epizy.com
+
+#### 软件架构
+软件架构说明
+c#编写的一个小程序，可以帮助快速安装程序，我们希望更多的人加入我们，一起贡献
+
+
+#### 安装教程
+
+访问我的官方网站:http://fxtstudio.epizy.com 搜所下载
+或者访问这个地址一键下载最新版本：https://fxtstudios.gitee.io/app_manger_ex/
+或者直接从仓库下载：
+
+1.  下载zip文件后，在桌面新建一个文件夹，把文件解压到里面
+2.  右键以管理员身份运行setup.bat
+3.  done
+
+#### 使用说明
+
+1.  你需要下载你所需安装的程序的zip安装包，在我的网站上可以找到很多已经由大家打包好的app，你也可以帮助哦我们覆盖更全面的app软件
+2.  解压到一个英文名字的文件夹内
+3.  右键以管理员身份运行setup.bat
+
+#### 参与贡献
+
+1.  呵呵1008899
+2.  FxT工作室
+
+#### 特技
+
